@@ -1,15 +1,15 @@
 HOST: standard3d                     
   OS: Ubuntu 20.04.6 LTS             
-  UP: up 10 hours, 19 minutes        
-TIME: Wed 17 Jan 2024 10:06:11 PM EST
-%CPU: TOTAL 10%                      
- 2.9  AspeQt                         
- 1.5  systemd-udevd                  
- 1.5  upowerd                        
- 1.5  colord                         
- 1.5  chrome                         
-17/Jan/2024:21:49:54 standard3d.com  
-17/Jan/2024:21:49:54 standard3d.com  
-17/Jan/2024:21:49:54 standard3d.com  
-17/Jan/2024:21:49:54 standard3d.com  
-17/Jan/2024:21:49:54 standard3d.com  
+  UP: up 6 minutes                   
+TIME: Thu 18 Jan 2024 04:42:05 PM EST
+%CPU: TOTAL 20.3%                    
+29.4  gnome-s+                       
+17.6  Xorg                           
+17.6  atari800                       
+11.8  AspeQt                         
+ 5.9  systemd+                       
+18/Jan/2024:16:12:20 standard3d.com  
+18/Jan/2024:16:17:30 standard3d.com  
+18/Jan/2024:16:32:27 standard3d.com  
+18/Jan/2024:16:40:08 standard3d.com  
+18/Jan/2024:16:41:13 standard3d.com  
