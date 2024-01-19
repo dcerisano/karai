@@ -12,5 +12,4 @@ do
   awk '{printf "%-37s\n",$0}' RAW.DAT                                                                         > FIXED.DAT 
   tr '\n' '\233' < FIXED.DAT                                                                                  > FRAME.DAT 
   sleep 1
-  echo TICK
 done
