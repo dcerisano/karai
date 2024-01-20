@@ -1,15 +1,15 @@
-HOST: praxis                         
-  OS: Ubuntu 23.10                   
-  UP: up 4 hours, 43 minutes         
-TIME: Thu Jan 18 11:33:54 PM EST 2024
-%CPU: TOTAL 10%                      
-20.0  atari800                       
- 6.7  gnome-s+                       
- 6.7  Xwayland                       
- 6.7  top                            
+HOST: standard3d                     
+  OS: Ubuntu 20.04.6 LTS             
+  UP: up 1 day, 3 hours, 20 minutes  
+TIME: Sat 20 Jan 2024 06:28:47 PM EST
+%CPU: TOTAL 20%                      
+11.8  AspeQt                         
+11.8  top                            
+ 5.9  gnome-shell                    
+ 5.9  upowerd                        
  0.0  systemd                        
-18/Jan/2024:19:01:19 rgbify.com      
-18/Jan/2024:19:01:19 rgbify.com      
-18/Jan/2024:19:03:00 standard3d.com  
-18/Jan/2024:19:03:45 standard3d.com  
-18/Jan/2024:19:03:53 standard3d.com  
+20/Jan/2024:18:05:30 standard3d.com  
+20/Jan/2024:18:07:21 standard3d.com  
+20/Jan/2024:18:13:35 standard3d.com  
+20/Jan/2024:18:19:21 standard3d.com  
+20/Jan/2024:18:25:56 standard3d.com  
