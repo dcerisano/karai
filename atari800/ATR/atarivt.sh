@@ -8,7 +8,7 @@ do
   echo "TIME: $(date)"                                                                                       >> RAW.DAT
   echo                                                                                                       >> RAW.DAT
   top -b -n 1 | head -n 17  | tail -n 11 | cut  -c51-56,72-100                                               >> RAW.DAT
-  top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print "TOTAL " 100 - $1 "%"}'      >> RAW.DAT
+  top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print "TOTAL " 100 - $1 "%"}'       >> RAW.DAT
   echo                                                                                                       >> RAW.DAT
   echo "LOGS:"                                                                                               >> RAW.DAT
   tail -n 15 /var/log/syslog | cut -c1-37                                                >> RAW.DAT
