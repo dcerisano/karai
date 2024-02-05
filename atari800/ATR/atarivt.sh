@@ -14,5 +14,6 @@ do
   tail -n 4 /var/log/syslog | cut -c1-40                                                                     >> RAW.DAT
   # tail -n 5 /var/log/apache2/access.log | cut -c2-22,30-80 | cut -d' ' -f1,2                               >> RAW.DAT
   awk '{printf "%-40s\n",$0}' RAW.DAT | tr '\n' '\233' | tr '[\040-\137]' '[\000-\077]'                       > FRAME.DAT
-  sleep 1
+  sleep 0.5
+
 done
