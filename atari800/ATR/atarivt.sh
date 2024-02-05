@@ -2,7 +2,7 @@ HOME=~/git/atariVT/atari800/ATR
 cd $HOME
 while true
 do
-  echo "HOST: $(hostname)"                                                                                    > RAW.DAT
+  echo "HOST: $(hostname) $(ip -o route get to 8.8.8.8 | sed -n 's/.*src \([0-9.]\+\).*/\1/p')"                                                                                    > RAW.DAT
   echo "  OS: $(lsb_release -ds)"                                                                            >> RAW.DAT
   echo "  UP: $(uptime -p)"                                                                                  >> RAW.DAT
   echo "TIME: $(date)"                                                                                       >> RAW.DAT
