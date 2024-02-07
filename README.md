@@ -8,7 +8,7 @@
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
 
 - DONE: Animated GR.7 auorun.bas boot splash using DLI
-- DONE: dithertron.sh for converting mode D ANTIC file Atari DOS file
+- DONE: dithertron.sh for converting dithertron file to Atari readble file
 - TODO: Animated LCARS graphics, of course.
 
 https://github.com/dcerisano/atariVT/assets/1641613/5dabed1b-acfc-47c6-b7b9-8cb8448e9d7d
