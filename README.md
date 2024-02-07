@@ -1,6 +1,6 @@
 # atariVT
 
-- Just a little project to repurpose my Atari 400 as a server monitor.
+- A project to repurpose my Atari 400 as a server monitor.
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO.
 - Host acts as 810 floppy drive to boot the 400 (D1:../ATR/ATARIVT.ATR)
 - Host server script formats and streams sytem data frames to shared folder (D2:../ATR)
