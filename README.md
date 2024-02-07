@@ -2,7 +2,7 @@
 
 - Atari Virtual Terminal
 - Webserver monitor
-- ApseQT frame buffering 
+- ApseQT network frame buffering 
 - Self booting floppy image (autorun ATR)
 - Linux server script, TODO: Windows, OSX, etc
 
