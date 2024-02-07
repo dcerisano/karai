@@ -7,6 +7,7 @@
 - Used Atari800 (Altirra) for development with real 8K Atari 400 for testing.
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
 
+- Page flipping frame buffer (40x24 text frame)
 - DONE: Animated GR.7 autorun.bas boot splash using DLI
 - DONE: dithertron.sh for converting dithertron file to Atari-readable file
 - TODO: Animated LCARS graphics, of course.
