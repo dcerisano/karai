@@ -7,7 +7,7 @@
 - Used Atari800 (Altirra) for development with real 8K Atari 400 for testing.
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
 
-- DONE: Animated GR.7 boot splash using DLI
+- DONE: Animated GR.7 auorun.bas boot splash using DLI
 - DONE: dithertron.sh for converting mode D ANTIC file Atari DOS file
 - TODO: Animated LCARS graphics, of course.
 
