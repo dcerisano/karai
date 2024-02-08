@@ -1,4 +1,4 @@
-# IRATA ATARI
+#ATARI IRATA
 
 - A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
 - Produces self booting Atari floppy images (bootable ATR files)
