@@ -1,4 +1,4 @@
-# atariVT
+# IRATA
 
 - A project to repurpose my Atari 400 as a server monitor.
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO.
