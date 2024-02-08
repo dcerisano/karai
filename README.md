@@ -14,7 +14,7 @@ https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
 - Server script (atarivt.sh) streams data frames to shared folder (D2:/../ATR)
-- Used Atari800 (Altirra) for development with real 8K Atari 400 for testing.
+- Used Altirra Emulator for development with real 8K Atari 400 for testing.
 
 - DONE: Page flipped data frame buffering (40x24 text frame)
 - DONE: Animated GR.7 autorun.bas boot splash using DLI
