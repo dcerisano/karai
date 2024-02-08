@@ -6,8 +6,8 @@
 - A sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
 - For creating and distributing legit retro apps with optional modern host integration.
-  
-![dev](https://github.com/dcerisano/atariVT/assets/1641613/68212175-384d-4535-accc-874a3385c240)
+
+![irata](https://github.com/dcerisano/IRATA/assets/1641613/7c16af95-4f06-459b-a8f2-cc557cf877fe)
 
 https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c0dc282
 
