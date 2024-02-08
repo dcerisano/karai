@@ -16,6 +16,6 @@ https://github.com/dcerisano/atariVT/assets/1641613/5dabed1b-acfc-47c6-b7b9-8cb8
 
 - DONE: Page flipped data frame buffering (40x24 text frame)
 - DONE: Animated GR.7 autorun.bas boot splash using DLI
-- DONE: dithertron.sh for converting [dithertron](https://8bitworkshop.com/dithertron) images to Atari-readable files
+- DONE: dithertron.sh for converting [dithertron](https://8bitworkshop.com/dithertron/#sys=atari8.d&image=seurat.jpg) images to Atari-readable files
 - TODO: Port BASH script to MSDOS batch file
 - TODO: Animated LCARS graphics, of course.
