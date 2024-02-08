@@ -8,7 +8,11 @@
   
 ![dev](https://github.com/dcerisano/atariVT/assets/1641613/68212175-384d-4535-accc-874a3385c240)
 
-https://github.com/dcerisano/atariVT/assets/1641613/5dabed1b-acfc-47c6-b7b9-8cb8448e9d7d
+
+
+https://github.com/dcerisano/IRATA/assets/1641613/a8dd9062-5618-4ccc-a42a-dfb0de86d74d
+
+
 
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
