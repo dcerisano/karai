@@ -1,4 +1,4 @@
-# IRATA
+# I.R.A.T.A. Integrated Repository And Target for Atari
 
 - A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, bash, etc)
 - Produces self booting Atari floppy images (bootable ATR files)
