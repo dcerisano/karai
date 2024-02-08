@@ -4,6 +4,7 @@
 - Produces self booting Atari floppy images (bootable ATR files)
 - A sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
+- Ideal for generating legit retro video content.
   
 ![dev](https://github.com/dcerisano/atariVT/assets/1641613/68212175-384d-4535-accc-874a3385c240)
 
