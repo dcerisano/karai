@@ -1,4 +1,4 @@
-# IRATA
+# IRATA-ATARI
 
 - A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
 - Allows live exchange of data from a network server over Atari SIO
