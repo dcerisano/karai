@@ -1,6 +1,7 @@
 # IRATA
 
-- A dev environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
+- A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
+- Allows live exchange of data from a network server over Atari SIO
 - An initial project to repurpose an 8K Atari 400 as a server monitor.
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
