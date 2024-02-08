@@ -1,7 +1,8 @@
 # IRATA
 
-- A project to repurpose my Atari 400 as a server monitor.
-- Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO.
+- A dev environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
+- An initial project to repurpose an 8K Atari 400 as a server monitor.
+- Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
 - Server script (atarivt.sh) streams data frames to shared folder (D2:/../ATR)
 - Used Atari800 (Altirra) for development with real 8K Atari 400 for testing.
