@@ -1,6 +1,6 @@
 # ATARI IRATA
 
-- A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
+- A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, bash, etc)
 - Produces self booting Atari floppy images (bootable ATR files)
 - Allows live exchange of data frames from a network server over Atari SIO
 - An sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
@@ -13,6 +13,7 @@
 - DONE: Page flipped data frame buffering (40x24 text frame)
 - DONE: Animated GR.7 autorun.bas boot splash using DLI
 - DONE: dithertron.sh for converting dithertron images to Atari-readable files
+- TODO: Port BASH script to MSDOS batch file
 - TODO: Animated LCARS graphics, of course.
   
 ![dev](https://github.com/dcerisano/atariVT/assets/1641613/68212175-384d-4535-accc-874a3385c240)
