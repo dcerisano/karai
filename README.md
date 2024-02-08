@@ -12,7 +12,8 @@
 - DONE: dithertron.sh for converting dithertron images to Atari-readable files
 - TODO: Animated LCARS graphics, of course.
   
-![dev](https://github.com/dcerisano/atariVT/assets/1641613/4a644c72-94d9-46f1-9ff3-79a9fe9c79a3)
+![dev](https://github.com/dcerisano/atariVT/assets/1641613/68212175-384d-4535-accc-874a3385c240)
+
 
 https://github.com/dcerisano/atariVT/assets/1641613/5dabed1b-acfc-47c6-b7b9-8cb8448e9d7d
 
