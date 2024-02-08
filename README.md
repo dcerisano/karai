@@ -1,6 +1,6 @@
-# I.R.A.T.A. Integrated Repository And Target for Atari
+# I.R.A.T.A. Integrated Repository And Targeting for Atari
 
-- A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, bash, etc)
+- A dev repo and build targeting environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, bash, etc)
 - Produces self booting Atari floppy images (bootable ATR files)
 - A sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
