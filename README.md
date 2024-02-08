@@ -9,9 +9,6 @@
 
 https://github.com/dcerisano/atariVT/assets/1641613/5dabed1b-acfc-47c6-b7b9-8cb8448e9d7d
 
-https://8bitworkshop.com/dithertron
-
-
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
 - Server script (atarivt.sh) streams data frames to shared folder (D2:/../ATR)
@@ -19,6 +16,6 @@ https://8bitworkshop.com/dithertron
 
 - DONE: Page flipped data frame buffering (40x24 text frame)
 - DONE: Animated GR.7 autorun.bas boot splash using DLI
-- DONE: dithertron.sh for converting dithertron images to Atari-readable files
+- DONE: dithertron.sh for converting [dithertron](https://8bitworkshop.com/dithertron) images to Atari-readable files
 - TODO: Port BASH script to MSDOS batch file
 - TODO: Animated LCARS graphics, of course.
