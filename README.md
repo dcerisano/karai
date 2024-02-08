@@ -3,7 +3,7 @@
 - A dev and deploy environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, etc)
 - Produces self booting Atari floppy images (bootable ATR files)
 - Allows live exchange of data frames from a network server over Atari SIO
-- An initial project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
+- An sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
 - Uses AspectQT on the host with sio2usb connector (FTDI) to the 400 SIO (see diagram)
 - Host acts as 810 floppy drive to boot the 400 (D1:/../ATR/ATARIVT.ATR)
 - Server script (atarivt.sh) streams data frames to shared folder (D2:/../ATR)
