@@ -5,7 +5,7 @@
 https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c0dc282
 
 - A dev repo and build targeting environment for Atari 8-bit
-- Popular components (Git, Altirra, AspeQT, bash, etc)
+- Popular components (Git, Altirra, AspeQT, Atari BASIC&Assembler, bash, etc)
 - Develop on laptops or desktops using modern 8-bit emulator, deploy to vintage 8-bit targets.
 - Produces self booting Atari floppy images (bootable ATR files)
 - A sample project (atariVT) to repurpose an 8K Atari 400 as a server monitor.
