@@ -1,9 +1,8 @@
 # Integrated Repository And Targeting for Atari
 
+![irata](https://github.com/dcerisano/IRATA/assets/1641613/37469582-07de-4a31-b626-396587d05414)
 
 https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c0dc282
-
-![irata](https://github.com/dcerisano/IRATA/assets/1641613/37469582-07de-4a31-b626-396587d05414)
 
 - A dev repo and build targeting environment for Atari 8-bit
 - Popular components (Git, Altirra, AspeQT, bash, etc)
