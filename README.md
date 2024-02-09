@@ -7,7 +7,7 @@
 - Should run on ANY 8-bit Atari computer with minimum 8K RAM.
 - For creating and distributing legit retro apps with optional modern host integration.
 
-file:///home/praxis/Pictures/irata.gif
+![irata](https://github.com/dcerisano/IRATA/assets/1641613/37469582-07de-4a31-b626-396587d05414)
 
 https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c0dc282
 
