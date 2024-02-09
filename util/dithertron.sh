@@ -1,3 +1,4 @@
+#!/bin/bash
 # This bash script converts 8bitworkshop.com/dithertron ANTIC display memory files
 # (mode D / GR.7 memory) to ATARI Atari DOS files that can be read by Atari BASIC.
 # Reformats dithertron file (atari.bin) to Atari DOS file 
