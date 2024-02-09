@@ -1,4 +1,4 @@
-# I.R.A.T.A. Integrated Repository And Targeting for Atari
+# Integrated Repository And Targeting for Atari
 
 - A dev repo and build targeting environment for Atari 8-bit made of popular components (Git, Altirra, AspeQT, bash, etc)
 - Develop on modern laptops or desktops using emulator, deploy to authentic vintage 8-bit targets.
