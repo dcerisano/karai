@@ -20,6 +20,6 @@ https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c
 - Used Altirra Emulator for development with real 8K Atari 400 for testing.
 
 ## TODO
-- Port BASH scripts to MSDOS batch 
+- Port BASH scripts to MSDOS 
 - SIO to WebUSB (eg. web-based 810 drive)
 
