@@ -1,4 +1,4 @@
-HOME=~/git/atariVT/atari800/ATR
+HOME=~/git/IRATA/atarivt
 cd $HOME
 while true
 do
