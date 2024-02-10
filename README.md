@@ -12,7 +12,13 @@ Karai (辛い) is a Japanese Go term meaning 'to be shrewd with resources'
 ## Example Project - Atari VT
 
 
-https://github.com/dcerisano/KARAI/assets/1641613/3f2716fc-fba2-40b3-8357-34c82b188f96
+https://github.com/dcerisano/karai/assets/1641613/f24dcd5e-b80a-4ad4-aec4-1cd41abaac98
+
+
+
+
+
+
 
 
 
