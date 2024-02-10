@@ -11,7 +11,6 @@ Karai (辛い) is a Japanese Go term meaning 1) being shrewd with resources, or 
 
 
 ## Example Project - Atari VT
-- A sample project (atarivt) included to repurpose an 8K Atari 400 as a host monitor.
   
 https://github.com/dcerisano/KARAI/assets/1641613/e31e28da-d9cb-4e8f-9960-6af8bcb37aa6
 
