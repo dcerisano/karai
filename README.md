@@ -1,5 +1,5 @@
 # KARAI 
-Karai (辛い) is a Japanese Go term meaning
+Karai (辛い) is a Japanese Go term meaning:
   1) being shrewd with resources, or
   2) a severe move with immediate profit while also solid, challenging the opponent to come up with a really good plan.
 
