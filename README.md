@@ -21,5 +21,5 @@ https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c
 
 ## TODO
 - Port BASH script to MSDOS batch file
-- SIO to WebUSB (eg. web-based 810 drive, )
+- SIO to WebUSB (eg. web-based 810 drive)
 
