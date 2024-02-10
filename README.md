@@ -12,7 +12,7 @@ https://github.com/dcerisano/IRATA/assets/1641613/958b9b29-7123-4d48-b003-43f87c
 - Create and distribute legit Atari floppy disk apps that can leverage modern resources.
 - Popular components (Git, bash, Atari BASIC, Altirra, AspeQT, etc)
 - Produces Atari bootable floppy disk apps (ATR files)
-- 
+  
 ## Notes
 - Uses AspectQT on host with USB-to-TTL cable (FTDI) connected to Atari SIO port (see diagram)
 - Host acts as 810 floppy drive to boot Atari (D1:/../ATR/ATARIVT.ATR)
