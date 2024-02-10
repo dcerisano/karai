@@ -1,6 +1,5 @@
 # KARAI 
-Karai (辛い) is a Japanese Go term meaning 1) being shrewd with resources, or 2) a severe move with immediate profit while also solid, challenging the opponent to come up with a really good plan.
-
+Karai (辛い) is a Japanese Go term meaning 'to be shrewd with resources'
 - Develop using modern 8-bit emulator, deploy to vintage 8-bit targets.
 - Create and distribute legit Atari floppy disk apps that can leverage modern resources.
 - Popular components (Git, bash, Atari BASIC, Altirra, AspeQT, etc)
