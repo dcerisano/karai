@@ -9,7 +9,7 @@ Karai (辛い) is a Japanese Go term meaning
 ## Example Project - Atari VT
 - A sample project (atarivt) included to repurpose an 8K Atari 400 as a host monitor.
   
-https://github.com/dcerisano/KARAI/assets/1641613/5c020aee-f271-4e6e-9726-2d70b36e3528
+https://github.com/dcerisano/KARAI/assets/1641613/e31e28da-d9cb-4e8f-9960-6af8bcb37aa6
 
 ## Features
 - Develop using modern 8-bit emulator, deploy to vintage 8-bit targets.
