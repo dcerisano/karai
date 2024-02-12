@@ -1,4 +1,4 @@
-HOME=~/git/IRATA/atarivt
+HOME=~/git/karai/atarivt
 cd $HOME
 while true
 do
