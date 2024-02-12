@@ -32,6 +32,7 @@ async function connectAtari() {
   } else {
     outputDiv.append('Web Serial doesn\'t seem to be enabled in your browser.')
   }
+  outputDiv.append('CONNECTED TO PORT\n');
 }
 
 
@@ -72,6 +73,7 @@ document.getElementById("connect-button").style.height = '35px';
 connectButton.addEventListener('click', async () => {
   try {
     await connectAtari();
+
       
     let buffer = new ArrayBuffer(40);
       
