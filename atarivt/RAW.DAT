@@ -1,0 +1,23 @@
+HOST: praxis 192.168.2.100
+  OS: Ubuntu 23.10
+  UP: up 33 minutes
+TIME: Mon Feb 12 12:58:40 PM EST 2024
+
+%CPU  COMMAND
+12.5  gnome-s+
+12.5  chrome
+ 6.2  chrome
+ 6.2  top
+ 0.0  systemd
+ 0.0  kthreadd
+ 0.0  rcu_gp
+ 0.0  rcu_par+
+ 0.0  slub_fl+
+ 0.0  netns
+TOTAL 8.3%
+
+LOGS:
+2024-02-12T12:57:55.236519-05:00 praxis 
+2024-02-12T12:57:55.282713-05:00 praxis 
+2024-02-12T12:58:02.078254-05:00 praxis 
+2024-02-12T12:58:25.290361-05:00 praxis 
