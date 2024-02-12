@@ -38,10 +38,6 @@ window.onload =async function(){
   await myFont.load();
   document.fonts.add(myFont);
   document.body.style.fontFamily = 'sio2web';
-  document.getElementById("connect-button").style.fontFamily = 'sio2web';
-  document.getElementById("connect-button").style.color = 'blue';
-  document.getElementById("connect-button").style.backgroundColor = 'white';
-  document.getElementById("connect-button").style.height = '35px';
 }
 
 async function readInto(reader,buffer) {
@@ -64,8 +60,12 @@ const outputDiv = document.getElementById('output');
 outputDiv.style.whiteSpace = "pre-wrap";
 outputDiv.append("\n");
 
-document.body.style.backgroundColor="blue";    
+document.body.style.backgroundColor="#1111dd";    
 document.body.style.color="white";
+document.getElementById("connect-button").style.fontFamily = 'sio2web';
+document.getElementById("connect-button").style.color = 'blue';
+document.getElementById("connect-button").style.backgroundColor = 'white';
+document.getElementById("connect-button").style.height = '35px';
 
 connectButton.addEventListener('click', async () => {
   try {
