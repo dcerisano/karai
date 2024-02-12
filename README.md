@@ -14,7 +14,8 @@ https://github.com/dcerisano/karai/assets/1641613/40735183-96d6-4266-9446-c66021
 
 
 ## Example Project - SIO2WEB
-[<img src="sio2web.png">](https://dcerisano.github.io/sio2web.html)
+![sio2web](https://github.com/dcerisano/karai/assets/1641613/978570ca-6dbd-4a3b-ac7e-b3dab2668021)
+
 
 
 
