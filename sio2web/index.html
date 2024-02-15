@@ -33,11 +33,11 @@ async function connectAtari() {
       outputDiv.append('CONNECTED (reload page or turn off Atari to disconnect)\n');
       document.getElementById("connect-button").style.visibility = 'hidden';
     } catch(error) {
-      outputDiv.append('\n'+error.message);
+      outputDiv.append('\n'+error.message+'\n');
       setTimeout(() => { location.reload(); }, 1000)
     }
   } else {
-    outputDiv.append('Web Serial doesn\'t seem to be enabled in your browser.')
+    outputDiv.append('Web Serial doesn\'t seem to be enabled in your browser.\n')
   }
 }
 
@@ -91,7 +91,7 @@ connectButton.addEventListener('click', async () => {
       outputDiv.append(ser+"\n");
     }
   } catch (error) {
-    outputDiv.append(error.message);
+    outputDiv.append(error.message+'\n');
     setTimeout(() => { location.reload(); }, 1000); 
   }
 });
