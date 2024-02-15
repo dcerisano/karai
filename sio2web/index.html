@@ -29,6 +29,9 @@ async function connectAtari() {
 
       this.writer = port.writable.getWriter();
       this.reader = port.readable.getReader({ mode: "byob" });         
+
+      outputDiv.append('CONNECTED (reload page or turn off Atari to disconnect)\n');
+      document.getElementById("connect-button").style.visibility = 'hidden';
     } catch(error) {
       outputDiv.append('\n'+error.message);
       setTimeout(() => { location.reload(); }, 1000)
@@ -36,8 +39,6 @@ async function connectAtari() {
   } else {
     outputDiv.append('Web Serial doesn\'t seem to be enabled in your browser.')
   }
-  outputDiv.append('CONNECTED (reload page or turn off Atari to disconnect)\n');
-  document.getElementById("connect-button").style.visibility = 'hidden';
 }
 
 
