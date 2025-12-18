@@ -1,0 +1,10 @@
+#!/bin/sh
+
+case "$1" in
+    pre)
+        ;;
+    post)
+        # Commands to run AFTER the system wakes up
+        sudo -i -u praxis sh -c 'exec /home/praxis/git/karai/atarivt/atarivt.sh&'&
+        ;;
+esac

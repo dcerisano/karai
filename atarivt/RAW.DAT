@@ -1,16 +1,16 @@
 HOST: praxis 192.168.2.100
   OS: Ubuntu 24.04.3 LTS
-  UP: up 51 minutes
-TIME: Thu Dec 18 12:35:09 AM EST 2025
+  UP: up 56 minutes
+TIME: Thu Dec 18 12:40:14 AM EST 2025
 
 %CPU  COMMAND
+27.3  cursor
 18.2  cursor
+ 9.1  rcu_pre+
  9.1  Xorg
  9.1  gnome-s+
  9.1  cursor
- 9.1  cursor
+ 9.1  top
  0.0  systemd
  0.0  kthreadd
  0.0  pool_wo+
- 0.0  kworker+
- 0.0  kworker+
