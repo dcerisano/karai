@@ -1,6 +1,7 @@
+#!/bin/sh
 #place in /usr/lib/systemd/system-sleep/
 #make executable: chmod +x /usr/lib/systemd/system-sleep/atarivt.sh
-#!/bin/sh
+
 
 
 case "$1" in
@@ -8,6 +9,6 @@ case "$1" in
         ;;
     post)
         # Commands to run AFTER the system wakes up
-        sudo -i -u praxis sh -c 'exec /home/praxis/git/karai/atarivt/atarivt.sh&'&
+        sudo -i -u praxis sh -c '/home/praxis/git/karai/atarivt/atarivt.sh' &
         ;;
 esac
