@@ -1,3 +1,4 @@
+#place in /usr/lib/systemd/system-sleep/
 #!/bin/sh
 
 case "$1" in
