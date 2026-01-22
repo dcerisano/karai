@@ -1,5 +1,6 @@
 #!/bin/sh
 # place in /usr/lib/systemd/system-sleep/
+# Kills
 # make executable: chmod +x /usr/lib/systemd/system-sleep/atarivt.sh
 
 
