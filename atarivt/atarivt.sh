@@ -1,3 +1,5 @@
+#!/bin/sh
+
 killall -9 /usr/bin/sh -o 1s || true
 killall -9  RespeQt || true
 
