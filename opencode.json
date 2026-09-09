@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "../opencode-tokenreduce-plugin/dist/index.js",
+    "../opencode-rgbify-plugin/dist/index.js",
+    "@tarquinen/opencode-dcp"
+  ]
+}
